@@ -1,5 +1,5 @@
-# AIMSS Google Colab Workshop 2020
-Hi everyone! Welcome to the AI in Medicine Student Society's first ever workshop. This repository stores the data we are going to be using and the steps to set up the Colab notebook.
+# AIMSS Google Colab Workshop
+Hi everyone! Welcome to the AI in Medicine Student Society's workshop. This repository stores the data we are going to be using and the steps to set up the Colab notebook.
 
 ## First steps
 We need somewhere to keep the data and the code:
@@ -22,8 +22,4 @@ In order to edit the demo notebook, you must save your own copy on your drive.
 
 ## Slides
 The slides that are shared during the presentation can be found here for your reference:
-https://docs.google.com/presentation/d/19UOKdz5Y4hbykAITO_sUi1nO-kTe3sd1Uvc-iJ7QIPw/edit?usp=sharing
-
-
-## After the Workshop
-If you could fill out this [brief survey](https://forms.gle/MTqzmnydhA5q6w7y7) after the event, we would greatly appreciate it!
+https://colab.research.google.com/drive/1jbofReb1aWB9vPqGbN3Xg18ImyJhHRIw?usp=sharing
